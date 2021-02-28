@@ -1,12 +1,25 @@
 .App-link {
   color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App {
+  display: flex;
+  background-color: lawngreen;
+}
+.friends {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  width: 70%;
+  border-right: 1px solid blueviolet;
+  margin: 10px;
+}
+.cart {
+  margin: 20px;
+  width: 30%;
+  float: right;
+  background-color: blueviolet;
+  height: 200px;
+  border-radius: 20px;
+  padding:20px;
 }

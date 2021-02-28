@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Florance",
+    "email": "fwoodcock0@cbslocal.com",
+    "gender": "Agender",
+    "wealth": 4269.02
+  },
+  {
+    "id": 2,
+    "name": "Jasmine",
+    "email": "jmaxsted1@dot.gov",
+    "gender": "Female",
+    "wealth": 963394.72
+  },
+  {
+    "id": 3,
+    "name": "Burlie",
+    "email": "bmcilveen2@google.ca",
+    "gender": "Agender",
+    "wealth": 448014.38
+  },
+  {
+    "id": 4,
+    "name": "Layne",
+    "email": "lmessier3@tumblr.com",
+    "gender": "Genderfluid",
+    "wealth": 142946.12
+  },
+  {
+    "id": 5,
+    "name": "Merle",
+    "email": "marrowsmith4@aboutads.info",
+    "gender": "Bigender",
+    "wealth": 91295.45
+  },
+  {
+    "id": 6,
+    "name": "Aigneis",
+    "email": "acathenod5@alibaba.com",
+    "gender": "Genderfluid",
+    "wealth": 468958.57
+  },
+  {
+    "id": 7,
+    "name": "Hermine",
+    "email": "hbugbee6@ed.gov",
+    "gender": "Non-binary",
+    "wealth": 190349.96
+  },
+  {
+    "id": 8,
+    "name": "Maxie",
+    "email": "mkneeshaw7@geocities.jp",
+    "gender": "Female",
+    "wealth": 285878.19
+  },
+  {
+    "id": 9,
+    "name": "Isahella",
+    "email": "icleeton8@washingtonpost.com",
+    "gender": "Agender",
+    "wealth": 800005.54
+  },
+  {
+    "id": 10,
+    "name": "Jared",
+    "email": "jspringford9@usda.gov",
+    "gender": "Female",
+    "wealth": 703025.73
+  }
+]

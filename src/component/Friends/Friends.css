@@ -1,0 +1,23 @@
+.friend {
+  background-color: palegreen;
+  margin: 10px;
+  padding: 10px;
+  height: 250px;
+  width: 200px;
+  box-shadow: 2px 2px 5px rgb(59, 92, 9);
+  border-radius: 10px;
+}
+.friend button{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(61, 226, 171);
+}
+.friend button:hover{
+    background-color: rgb(17, 141, 100);
+    cursor: pointer;
+}
+.friend:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+}
